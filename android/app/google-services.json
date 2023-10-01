@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391416301765",
+    "project_id": "fredagsprojekt5",
+    "storage_bucket": "fredagsprojekt5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391416301765:android:d7a22c429254e83f9b08ac",
+        "android_client_info": {
+          "package_name": "com.example.fredags_projekt_5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD97pe56OJELk5FShjD5jKNjHcTTe8jfVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
